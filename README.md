@@ -268,8 +268,6 @@ Encourages positive daily habits through small, timely interventions using princ
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VishwakarmaSanket&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=818cf8&text_color=c9d1d9&ring_color=6366F1" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwakarmaSanket&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9" />
 
 <br/>
 
