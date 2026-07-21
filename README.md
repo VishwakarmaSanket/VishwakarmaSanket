@@ -56,8 +56,7 @@ Building products that combine beautiful design with scalable engineering.
 ### Design
 
 - Figma
-- Adobe XD
-- Photoshop
+- Framer
 
 ---
 
