@@ -31,7 +31,7 @@ const astronaut = {
     sector      : "GenAI × Product Design & Systems",
     vessel      : "B.E. Computer Engineering — SGPA 9.77 (Dept. Rank #1)",
     missions    : ["AI Battle Arena", "Moodify", "Perplexity Clone", "Finnovo"],
-    accolades   : ["SIH 2024 Selection", "IBM Design Thinking", "Meta UI/UX Certified"],
+    accolades   : ["IBM Design Thinking", "Meta UI/UX Certified"],
     coreProtocol: "Design with intention. Build with precision.",
 };
 ```
