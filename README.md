@@ -16,37 +16,37 @@
 
 ## / about
 
-I’m a **Computer Engineering student** focused on building thoughtful software across **full-stack development, generative AI, and product design**.
+I’m a **Computer Engineering student** interested in the space where **software engineering, generative AI, and product design** meet.
 
-My approach sits between engineering and product: understand the problem, design the system, build the interface, and keep the implementation simple enough to evolve.
+I like taking a problem from **context → system → interface → implementation** and keeping the result understandable enough to evolve.
 
 > **Consistency · Curiosity · Discipline**
 
 <br />
 
-## / currently
+## / now
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**BUILDING**
+**01 / BUILDING**
 
-TypeScript-first web applications, backend services, and AI-powered workflows.
-
-</td>
-<td width="33%" valign="top">
-
-**EXPLORING**
-
-LLM orchestration, RAG systems, agentic workflows, system design, and distributed infrastructure.
+TypeScript-first web products, backend services, and AI-powered workflows.
 
 </td>
 <td width="33%" valign="top">
 
-**DESIGNING**
+**02 / EXPLORING**
 
-Minimal interfaces, reusable systems, and product experiences where engineering and UX reinforce each other.
+LLM orchestration, RAG, agentic systems, system design, and distributed infrastructure.
+
+</td>
+<td width="33%" valign="top">
+
+**03 / DESIGNING**
+
+Minimal interfaces, reusable systems, and product experiences where UX and engineering reinforce each other.
 
 </td>
 </tr>
@@ -71,14 +71,21 @@ DESIGN          Figma · Framer
 ## / github signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishwakarmaSanket&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=00000000&text_color=8C93A3&icon_color=8B96FF&title_color=F5F7FA&cache_seconds=86400" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwakarmaSanket&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8C93A3&title_color=F5F7FA&cache_seconds=86400" height="165" />
+  <img src="./assets/github-signal.svg" alt="GitHub activity dashboard" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VishwakarmaSanket&hide_border=true&background=00000000&ring=8B96FF&fire=8B96FF&currStreakLabel=F5F7FA&sideLabels=8C93A3&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=6F7685" width="70%" />
-</p>
+<br />
+
+## / working log
+
+```text
+09:42  BUILD   ↳ turning ideas into interfaces
+11:18  STUDY   ↳ reading the system, not just the syntax
+14:06  EXPLORE ↳ testing another model, another approach
+18:31  SHIP    ↳ small commits > unfinished ambition
+```
+
+<sub>an intentionally small snapshot of how I like to work.</sub>
 
 <br />
 
@@ -92,20 +99,13 @@ Ajeenkya DY Patil School of Engineering · Savitribai Phule Pune University
 
 ## / principles
 
-<table>
-<tr>
-<td align="center" width="33%"><strong>01</strong><br /><sub>UNDERSTAND<br />BEFORE BUILDING</sub></td>
-<td align="center" width="33%"><strong>02</strong><br /><sub>SIMPLICITY<br />OVER NOISE</sub></td>
-<td align="center" width="33%"><strong>03</strong><br /><sub>SHIP · LEARN ·<br />ITERATE</sub></td>
-</tr>
-</table>
+| `01` | `02` | `03` |
+|:---:|:---:|:---:|
+| **UNDERSTAND**<br/>before building | **SIMPLIFY**<br/>over decorating | **SHIP**<br/>learn · iterate |
 
 <br />
 
 <p align="center">
-  <sub>Building, learning, and shipping.</sub>
-</p>
-
-<p align="center">
+  <sub>Building, learning, and shipping.</sub><br/>
   <a href="https://github.com/VishwakarmaSanket">github.com/VishwakarmaSanket</a>
 </p>
