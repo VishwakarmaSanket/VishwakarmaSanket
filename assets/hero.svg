@@ -1,37 +1,381 @@
-<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg
+  width="1200"
+  height="390"
+  viewBox="0 0 1200 390"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
   <defs>
-    <linearGradient id="accent" x1="130" y1="40" x2="1060" y2="330" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6E7CFF"/>
-      <stop offset="1" stop-color="#9BA5FF"/>
+
+    <!-- Restrained brand accent -->
+    <linearGradient
+      id="accent"
+      x1="70"
+      y1="130"
+      x2="650"
+      y2="240"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#5666E8"/>
+      <stop offset="1" stop-color="#7B86F5"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 68) rotate(139) scale(285 285)">
-      <stop stop-color="#7B88FF" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#7B88FF" stop-opacity="0"/>
+
+    <!-- Extremely subtle background glow -->
+    <radialGradient
+      id="glow"
+      cx="0"
+      cy="0"
+      r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(1050 70) rotate(135) scale(250)"
+    >
+      <stop
+        stop-color="#6D7AF0"
+        stop-opacity="0.09"
+      />
+      <stop
+        offset="1"
+        stop-color="#6D7AF0"
+        stop-opacity="0"
+      />
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.05"/>
+
+    <!-- Fine technical grid -->
+    <pattern
+      id="grid"
+      width="40"
+      height="40"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M40 0H0V40"
+        stroke="#111827"
+        stroke-opacity="0.025"
+        stroke-width="1"
+      />
     </pattern>
-    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+
   </defs>
 
-  <rect width="1200" height="390" rx="20" fill="#0A0B0F"/>
-  <rect width="1200" height="390" rx="20" fill="url(#grid)"/>
-  <circle cx="1045" cy="58" r="190" fill="url(#glow)" filter="url(#blur)"/>
 
-  <rect x="58" y="44" width="72" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="58" y="91" fill="#8C93A3" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.2">SANKET VISHWAKARMA / 2026</text>
+  <!-- ===================================================== -->
+  <!-- BACKGROUND -->
+  <!-- ===================================================== -->
 
-  <text x="58" y="174" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">BUILDING SOFTWARE</text>
-  <text x="58" y="229" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">WITH INTENT.</text>
+  <rect
+    width="1200"
+    height="390"
+    rx="18"
+    fill="#FAFAF9"
+  />
 
-  <text x="60" y="272" fill="#A8AFBF" font-family="Arial, Helvetica, sans-serif" font-size="17">FULL-STACK DEVELOPMENT  ·  GENAI  ·  PRODUCT DESIGN</text>
+  <rect
+    width="1200"
+    height="390"
+    rx="18"
+    fill="url(#grid)"
+  />
 
-  <line x1="60" y1="316" x2="1140" y2="316" stroke="#FFFFFF" stroke-opacity="0.11"/>
-  <text x="60" y="349" fill="#7E8799" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.8">PUNE, INDIA</text>
-  <text x="493" y="349" fill="#7E8799" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.8">COMPUTER ENGINEERING / 2027</text>
-  <text x="1004" y="349" fill="#A7AEFF" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" letter-spacing="1.8">@VISHWAKARMASANKET</text>
+  <circle
+    cx="1050"
+    cy="60"
+    r="220"
+    fill="url(#glow)"
+  />
 
-  <circle cx="1133" cy="71" r="4" fill="#8B96FF"/>
-  <circle cx="1151" cy="71" r="4" fill="#8B96FF" fill-opacity="0.5"/>
-  <circle cx="1169" cy="71" r="4" fill="#8B96FF" fill-opacity="0.24"/>
+
+  <!-- ===================================================== -->
+  <!-- TOP IDENTITY -->
+  <!-- ===================================================== -->
+
+  <text
+    x="58"
+    y="58"
+    fill="#17191F"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="12"
+    font-weight="600"
+    letter-spacing="2.4"
+  >
+    SANKET VISHWAKARMA
+  </text>
+
+  <text
+    x="286"
+    y="58"
+    fill="#A0A4AE"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="11"
+    letter-spacing="2"
+  >
+    / 2026
+  </text>
+
+
+  <!-- Status -->
+  <circle
+    cx="1081"
+    cy="54"
+    r="3.5"
+    fill="#6877E8"
+  />
+
+  <text
+    x="1093"
+    y="58"
+    fill="#737985"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+    letter-spacing="1.6"
+  >
+    AVAILABLE FOR OPPORTUNITIES
+  </text>
+
+
+  <!-- ===================================================== -->
+  <!-- MAIN HEADLINE -->
+  <!-- ===================================================== -->
+
+  <text
+    x="58"
+    y="151"
+    fill="#15171C"
+    font-family="Instrument Serif, Georgia, serif"
+    font-size="68"
+    font-weight="400"
+    letter-spacing="-2.5"
+  >
+    Building software
+  </text>
+
+  <text
+    x="58"
+    y="217"
+    fill="url(#accent)"
+    font-family="Instrument Serif, Georgia, serif"
+    font-size="68"
+    font-weight="400"
+    font-style="italic"
+    letter-spacing="-2.5"
+  >
+    with intent.
+  </text>
+
+
+  <!-- ===================================================== -->
+  <!-- PROFESSIONAL POSITIONING -->
+  <!-- ===================================================== -->
+
+  <text
+    x="61"
+    y="254"
+    fill="#626873"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="13"
+    font-weight="500"
+    letter-spacing="1.7"
+  >
+    FULL-STACK ENGINEERING
+  </text>
+
+  <text
+    x="288"
+    y="254"
+    fill="#A2A6AE"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="13"
+  >
+    ·
+  </text>
+
+  <text
+    x="307"
+    y="254"
+    fill="#626873"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="13"
+    font-weight="500"
+    letter-spacing="1.7"
+  >
+    GENERATIVE AI
+  </text>
+
+  <text
+    x="464"
+    y="254"
+    fill="#A2A6AE"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="13"
+  >
+    ·
+  </text>
+
+  <text
+    x="484"
+    y="254"
+    fill="#626873"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="13"
+    font-weight="500"
+    letter-spacing="1.7"
+  >
+    PRODUCT DESIGN
+  </text>
+
+
+  <!-- ===================================================== -->
+  <!-- SECONDARY STATEMENT -->
+  <!-- ===================================================== -->
+
+  <line
+    x1="61"
+    y1="282"
+    x2="95"
+    y2="282"
+    stroke="#6877E8"
+    stroke-width="1.5"
+  />
+
+  <text
+    x="108"
+    y="286"
+    fill="#858A94"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="11"
+    letter-spacing="1.8"
+  >
+    FROM IDEAS TO PRODUCTS
+  </text>
+
+
+  <!-- ===================================================== -->
+  <!-- RIGHT SIDE TYPOGRAPHIC DETAIL -->
+  <!-- ===================================================== -->
+
+  <text
+    x="1090"
+    y="155"
+    text-anchor="end"
+    fill="#A1A5AE"
+    font-family="Instrument Serif, Georgia, serif"
+    font-size="19"
+    font-style="italic"
+  >
+    Engineer.
+  </text>
+
+  <text
+    x="1090"
+    y="180"
+    text-anchor="end"
+    fill="#A1A5AE"
+    font-family="Instrument Serif, Georgia, serif"
+    font-size="19"
+    font-style="italic"
+  >
+    Designer.
+  </text>
+
+  <text
+    x="1090"
+    y="205"
+    text-anchor="end"
+    fill="#6877E8"
+    font-family="Instrument Serif, Georgia, serif"
+    font-size="19"
+    font-style="italic"
+  >
+    Builder.
+  </text>
+
+
+  <!-- Small vertical rule -->
+  <line
+    x1="1090"
+    y1="224"
+    x2="1090"
+    y2="253"
+    stroke="#D2D4D9"
+    stroke-width="1"
+  />
+
+
+  <!-- ===================================================== -->
+  <!-- DIVIDER -->
+  <!-- ===================================================== -->
+
+  <line
+    x1="58"
+    y1="316"
+    x2="1142"
+    y2="316"
+    stroke="#16181D"
+    stroke-opacity="0.10"
+  />
+
+
+  <!-- ===================================================== -->
+  <!-- FOOTER METADATA -->
+  <!-- ===================================================== -->
+
+  <!-- Location -->
+
+  <text
+    x="58"
+    y="345"
+    fill="#777D87"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+    letter-spacing="1.8"
+  >
+    PUNE, INDIA
+  </text>
+
+
+  <!-- Education -->
+
+  <text
+    x="430"
+    y="345"
+    fill="#777D87"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+    letter-spacing="1.8"
+  >
+    COMPUTER ENGINEERING / 2027
+  </text>
+
+
+  <!-- GitHub / Handle -->
+
+  <text
+    x="1142"
+    y="345"
+    text-anchor="end"
+    fill="#6877E8"
+    font-family="Geist, Inter, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+    letter-spacing="1.6"
+  >
+    @VISHWAKARMASANKET
+  </text>
+
+
+  <!-- ===================================================== -->
+  <!-- MICRO MARK -->
+  <!-- ===================================================== -->
+
+  <rect
+    x="58"
+    y="24"
+    width="28"
+    height="2"
+    rx="1"
+    fill="#6877E8"
+  />
+
 </svg>
