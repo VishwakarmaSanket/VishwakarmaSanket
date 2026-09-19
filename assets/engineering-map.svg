@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sanket Vishwakarma engineering map</title>
+  <desc id="desc">A minimal systems diagram showing the user's engineering interests across product, application, AI, and infrastructure.</desc>
+  <rect width="1200" height="300" rx="16" fill="#171b22"/>
+  <g opacity="0.13" stroke="#ffffff" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M120 0V300M240 0V300M360 0V300M480 0V300M600 0V300M720 0V300M840 0V300M960 0V300M1080 0V300"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="36" y="42" fill="#8f96a3" font-size="12" letter-spacing="2">ENGINEERING MAP / WHAT I LIKE TO CONNECT</text>
+    <circle cx="600" cy="154" r="54" fill="#0f1319" stroke="#8b83ff" stroke-width="2"/>
+    <text x="600" y="150" fill="#f4f6f8" font-size="15" font-weight="700" text-anchor="middle">BUILD</text>
+    <text x="600" y="170" fill="#8f96a3" font-size="11" text-anchor="middle">problem → system</text>
+    <g stroke="#535c69" stroke-width="1.5" fill="none">
+      <path d="M546 137L270 83"/><path d="M546 168L270 217"/>
+      <path d="M654 137L930 83"/><path d="M654 168L930 217"/>
+    </g>
+    <g fill="#202632" stroke="#303846">
+      <rect x="92" y="52" width="260" height="62" rx="12"/>
+      <rect x="92" y="186" width="260" height="62" rx="12"/>
+      <rect x="848" y="52" width="260" height="62" rx="12"/>
+      <rect x="848" y="186" width="260" height="62" rx="12"/>
+    </g>
+    <g fill="#f4f6f8" font-size="12" font-weight="700">
+      <text x="116" y="78">PRODUCT</text><text x="116" y="212">APPLICATIONS</text>
+      <text x="872" y="78">AI SYSTEMS</text><text x="872" y="212">INFRASTRUCTURE</text>
+    </g>
+    <g fill="#8f96a3" font-size="10">
+      <text x="116" y="97">UX · interfaces · design systems</text>
+      <text x="116" y="231">React · Next · Node · TypeScript</text>
+      <text x="872" y="97">LLMs · RAG · orchestration · agents</text>
+      <text x="872" y="231">Redis · Docker · Kubernetes · APIs</text>
+    </g>
+  </g>
+</svg>
