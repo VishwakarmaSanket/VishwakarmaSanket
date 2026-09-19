@@ -68,24 +68,22 @@ DESIGN          Figma · Framer
 
 <br />
 
-## / github signal
-
 <p align="center">
-  <img src="./assets/github-signal.svg" alt="GitHub activity dashboard" width="100%" />
+  <img src="./assets/engineering-map.svg" alt="Engineering map: Product, Applications, AI Systems, Infrastructure" width="100%" />
 </p>
 
 <br />
 
-## / working log
+## / how I work
 
-```text
-09:42  BUILD   ↳ turning ideas into interfaces
-11:18  STUDY   ↳ reading the system, not just the syntax
-14:06  EXPLORE ↳ testing another model, another approach
-18:31  SHIP    ↳ small commits > unfinished ambition
-```
-
-<sub>an intentionally small snapshot of how I like to work.</sub>
+<table>
+<tr>
+<td width="25%" align="center"><code>01</code><br/><b>UNDERSTAND</b><br/><sub>problem before solution</sub></td>
+<td width="25%" align="center"><code>02</code><br/><b>STRUCTURE</b><br/><sub>system before surface</sub></td>
+<td width="25%" align="center"><code>03</code><br/><b>BUILD</b><br/><sub>simple before clever</sub></td>
+<td width="25%" align="center"><code>04</code><br/><b>ITERATE</b><br/><sub>feedback before polish</sub></td>
+</tr>
+</table>
 
 <br />
 
@@ -97,11 +95,9 @@ Ajeenkya DY Patil School of Engineering · Savitribai Phule Pune University
 
 <br />
 
-## / principles
+## / outside the editor
 
-| `01` | `02` | `03` |
-|:---:|:---:|:---:|
-| **UNDERSTAND**<br/>before building | **SIMPLIFY**<br/>over decorating | **SHIP**<br/>learn · iterate |
+Gaming, exploring new tools, design rabbit holes, good food, and long YouTube rabbit holes.
 
 <br />
 
