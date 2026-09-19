@@ -1,0 +1,37 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="130" y1="40" x2="1060" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6E7CFF"/>
+      <stop offset="1" stop-color="#9BA5FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 68) rotate(139) scale(285 285)">
+      <stop stop-color="#7B88FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7B88FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="20" fill="#0A0B0F"/>
+  <rect width="1200" height="390" rx="20" fill="url(#grid)"/>
+  <circle cx="1045" cy="58" r="190" fill="url(#glow)" filter="url(#blur)"/>
+
+  <rect x="58" y="44" width="72" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="58" y="91" fill="#8C93A3" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.2">SANKET VISHWAKARMA / 2026</text>
+
+  <text x="58" y="174" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">BUILDING SOFTWARE</text>
+  <text x="58" y="229" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">WITH INTENT.</text>
+
+  <text x="60" y="272" fill="#A8AFBF" font-family="Arial, Helvetica, sans-serif" font-size="17">FULL-STACK DEVELOPMENT  ·  GENAI  ·  PRODUCT DESIGN</text>
+
+  <line x1="60" y1="316" x2="1140" y2="316" stroke="#FFFFFF" stroke-opacity="0.11"/>
+  <text x="60" y="349" fill="#7E8799" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.8">PUNE, INDIA</text>
+  <text x="493" y="349" fill="#7E8799" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.8">COMPUTER ENGINEERING / 2027</text>
+  <text x="1004" y="349" fill="#A7AEFF" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" letter-spacing="1.8">@VISHWAKARMASANKET</text>
+
+  <circle cx="1133" cy="71" r="4" fill="#8B96FF"/>
+  <circle cx="1151" cy="71" r="4" fill="#8B96FF" fill-opacity="0.5"/>
+  <circle cx="1169" cy="71" r="4" fill="#8B96FF" fill-opacity="0.24"/>
+</svg>
