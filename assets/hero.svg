@@ -4,742 +4,131 @@
   viewBox="0 0 1200 390"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
->
-
+ xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyZmM1M2UzYy1jMjVkLTRlNTEtOTk3Ny00YmE4NTU0ZGEzYmMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE3PgbZjapNNhj7CBLw3OjsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplODEwMDM1Yi1iZjNmLTQwNzYtYWIyOC1mM2ViZTBjYzM0YmRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUqk3A4IteOrHTw2sTeLamAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggSYLwUSOUQUxdDRY+wKeBnzctTrr3KbKVJk+aYmCWCIukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFS7aMUdUEQeaddIT2k0EH8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBrVB3NVb1p9C9vHRifO02Ek8rz294FTvu7f7OGuc6y+GRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBivZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjJmYzUzZTNjLWMyNWQtNGU1MS05OTc3LTRiYTg1NTRkYTNiYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjkyMWI2NGNjLTYxNTQtNGI4Ny05OWEwLTk0NjcxNmMzNDY5OHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBJgvBRI5RBTF0NFj7Ap4GfNy1OuvcpspUmT5piYJYIi6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggy6dj/pHnL1oT7TLoU6DgIKyTBrAOQNlTQZIIkrJurTCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggbeBtiOHWnf43mRgKAdTgmxBSU6XWq4BuORQsd3rRgOV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQC220SO+bCnTrNCEZLZpYO9HtKwCVrcmEhvv5nmXXEyRUjtxhlv68nD5l2UQU7nWv33SRbB1BVNc1tBDEKg6ocg=</c2pa:manifest></metadata>
   <defs>
-
-    <!-- ================================================= -->
-    <!-- BRAND ACCENT -->
-    <!-- ================================================= -->
-
-    <linearGradient
-      id="accent"
-      x1="250"
-      y1="130"
-      x2="720"
-      y2="270"
-      gradientUnits="userSpaceOnUse"
-    >
-      <stop stop-color="#5969E8"/>
-      <stop offset="1" stop-color="#8792F7"/>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B1F2A"/>
+      <stop offset="1" stop-color="#3A4150"/>
     </linearGradient>
 
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3F5FE0"/>
+      <stop offset="1" stop-color="#7B8CF0"/>
+    </linearGradient>
 
-    <!-- ================================================= -->
-    <!-- SOFT BLUE GLOW -->
-    <!-- ================================================= -->
-
-    <radialGradient
-      id="blueGlow"
-      cx="0"
-      cy="0"
-      r="1"
-      gradientUnits="userSpaceOnUse"
-      gradientTransform="translate(920 195) rotate(90) scale(220)"
-    >
-      <stop
-        stop-color="#7B88F5"
-        stop-opacity="0.20"
-      />
-
-      <stop
-        offset="0.55"
-        stop-color="#AEB6FF"
-        stop-opacity="0.08"
-      />
-
-      <stop
-        offset="1"
-        stop-color="#FFFFFF"
-        stop-opacity="0"
-      />
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(980 190) rotate(90) scale(260)">
+      <stop stop-color="#3F5FE0" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#3F5FE0" stop-opacity="0"/>
     </radialGradient>
 
-
-    <!-- ================================================= -->
-    <!-- ABSTRACT ORBIT GRADIENT -->
-    <!-- ================================================= -->
-
-    <linearGradient
-      id="orbit"
-      x1="760"
-      y1="90"
-      x2="1100"
-      y2="330"
-      gradientUnits="userSpaceOnUse"
-    >
-      <stop
-        stop-color="#6D7CF1"
-        stop-opacity="0.38"
-      />
-
-      <stop
-        offset="1"
-        stop-color="#B7BFFF"
-        stop-opacity="0.04"
-      />
-    </linearGradient>
-
-
-    <!-- ================================================= -->
-    <!-- VERY SUBTLE GRID -->
-    <!-- ================================================= -->
-
-    <pattern
-      id="grid"
-      width="40"
-      height="40"
-      patternUnits="userSpaceOnUse"
-    >
-      <path
-        d="M40 0H0V40"
-        stroke="#10131A"
-        stroke-opacity="0.025"
-        stroke-width="1"
-      />
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#0E1117" stroke-opacity="0.02" stroke-width="1"/>
     </pattern>
 
-
-    <!-- ================================================= -->
-    <!-- SOFT BLUR -->
-    <!-- ================================================= -->
-
-    <filter
-      id="blur"
-      x="-50%"
-      y="-50%"
-      width="200%"
-      height="200%"
-    >
-      <feGaussianBlur stdDeviation="24"/>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30"/>
     </filter>
-
-
-    <!-- ================================================= -->
-    <!-- ORB -->
-    <!-- ================================================= -->
-
-    <radialGradient
-      id="orb"
-      cx="0"
-      cy="0"
-      r="1"
-      gradientUnits="userSpaceOnUse"
-      gradientTransform="translate(900 205) rotate(90) scale(145)"
-    >
-      <stop
-        stop-color="#E9ECFF"
-        stop-opacity="0.95"
-      />
-
-      <stop
-        offset="0.65"
-        stop-color="#DCE1FF"
-        stop-opacity="0.65"
-      />
-
-      <stop
-        offset="1"
-        stop-color="#F6F7FF"
-        stop-opacity="0"
-      />
-    </radialGradient>
-
   </defs>
 
-
-  <!-- ===================================================== -->
   <!-- BACKGROUND -->
-  <!-- ===================================================== -->
+  <rect width="1200" height="390" rx="22" fill="#FAFAF8"/>
+  <rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+  <circle cx="980" cy="190" r="260" fill="url(#glow)" filter="url(#soft)"/>
 
-  <rect
-    width="1200"
-    height="390"
-    rx="20"
-    fill="#FCFCFA"
-  />
+  <!-- FRAME -->
+  <rect x="0.75" y="0.75" width="1198.5" height="388.5" rx="21.25"
+    stroke="#1B1F2A" stroke-opacity="0.08"/>
 
-  <rect
-    width="1200"
-    height="390"
-    rx="20"
-    fill="url(#grid)"
-  />
-
-
-  <!-- ===================================================== -->
-  <!-- RIGHT-SIDE AMBIENT LIGHT -->
-  <!-- ===================================================== -->
-
-  <circle
-    cx="910"
-    cy="200"
-    r="215"
-    fill="url(#blueGlow)"
-    filter="url(#blur)"
-  />
-
-
-  <!-- ===================================================== -->
-  <!-- TOP LEFT BRAND MARK -->
-  <!-- ===================================================== -->
-
-  <rect
-    x="58"
-    y="42"
-    width="42"
-    height="3"
-    rx="1.5"
-    fill="url(#accent)"
-  />
-
-
-  <!-- ===================================================== -->
-  <!-- NAME -->
-  <!-- ===================================================== -->
-
-  <text
-    x="58"
-    y="76"
-    fill="#17191F"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="12"
-    font-weight="600"
-    letter-spacing="2.6"
-  >
+  <!-- HEADER ROW -->
+  <text x="60" y="58" fill="#1B1F2A" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif"
+    font-size="13" font-weight="700" letter-spacing="3">
     SANKET VISHWAKARMA
   </text>
 
-
-  <!-- ===================================================== -->
-  <!-- YEAR -->
-  <!-- ===================================================== -->
-
-  <text
-    x="300"
-    y="76"
-    fill="#9AA0AB"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="11"
-    font-weight="500"
-    letter-spacing="2"
-  >
-    / 2026
+  <text x="60" y="78" fill="#8A8F99" font-family="'Inter', Arial, sans-serif"
+    font-size="10.5" font-weight="500" letter-spacing="1.6">
+    COMPUTER ENGINEERING · CLASS OF 2027 · PUNE, INDIA
   </text>
 
-
-  <!-- ===================================================== -->
-  <!-- EDUCATION -->
-  <!-- ===================================================== -->
-
-  <text
-    x="58"
-    y="98"
-    fill="#7B818D"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="10"
-    font-weight="500"
-    letter-spacing="1.8"
-  >
-    COMPUTER ENGINEERING / 2027
+  <!-- STATUS PILL -->
+  <rect x="978" y="38" width="164" height="30" rx="15" fill="#1B1F2A"/>
+  <circle cx="998" cy="53" r="3.5" fill="#7CF29C"/>
+  <text x="1010" y="57" fill="#FAFAF8" font-family="'Inter', Arial, sans-serif"
+    font-size="9.5" font-weight="600" letter-spacing="1.3">
+    OPEN TO WORK
   </text>
 
+  <!-- DIVIDER -->
+  <line x1="60" y1="98" x2="1140" y2="98" stroke="#1B1F2A" stroke-opacity="0.07"/>
 
-  <!-- ===================================================== -->
-  <!-- OPEN TO OPPORTUNITIES -->
-  <!-- ===================================================== -->
-
-  <rect
-    x="912"
-    y="34"
-    width="230"
-    height="34"
-    rx="17"
-    fill="#FFFFFF"
-    fill-opacity="0.65"
-    stroke="#6D7CF1"
-    stroke-opacity="0.18"
-  />
-
-  <circle
-    cx="934"
-    cy="51"
-    r="4"
-    fill="#6676EC"
-  />
-
-  <circle
-    cx="934"
-    cy="51"
-    r="8"
-    fill="#6676EC"
-    fill-opacity="0.08"
-  />
-
-  <text
-    x="950"
-    y="55"
-    fill="#555D6D"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="9.5"
-    font-weight="600"
-    letter-spacing="1.6"
-  >
-    OPEN TO OPPORTUNITIES
+  <!-- HEADLINE -->
+  <text x="58" y="188" fill="url(#ink)" font-family="Georgia, 'Times New Roman', serif"
+    font-size="64" font-weight="400" letter-spacing="-2">
+    Engineering products,
+  </text>
+  <text x="58" y="252" fill="url(#ink)" font-family="Georgia, 'Times New Roman', serif"
+    font-size="64" font-weight="400" font-style="italic" letter-spacing="-2">
+    with <tspan fill="url(#accent)">intent.</tspan>
   </text>
 
-
-  <!-- ===================================================== -->
-  <!-- MAIN HERO HEADLINE -->
-  <!-- ===================================================== -->
-
-  <text
-    x="58"
-    y="170"
-    fill="#15171D"
-    font-family="Instrument Serif, Georgia, serif"
-    font-size="67"
-    font-weight="400"
-    letter-spacing="-2.6"
-  >
-    Building
+  <!-- SUBLINE -->
+  <text x="60" y="286" fill="#6B7280" font-family="'Inter', Arial, sans-serif"
+    font-size="14" font-weight="400">
+    Full-stack &amp; AI engineer — building thoughtful software from idea to shipped product.
   </text>
 
+  <!-- DISCIPLINE TAGS -->
+  <g font-family="'Inter', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.6">
+    <rect x="60" y="304" width="146" height="30" rx="15" fill="none" stroke="#1B1F2A" stroke-opacity="0.14"/>
+    <text x="82" y="323" fill="#374151">Full-Stack (MERN)</text>
 
-  <text
-    x="292"
-    y="170"
-    fill="url(#accent)"
-    font-family="Instrument Serif, Georgia, serif"
-    font-size="67"
-    font-weight="400"
-    font-style="italic"
-    letter-spacing="-2.6"
-  >
-    Software
+    <rect x="216" y="304" width="128" height="30" rx="15" fill="none" stroke="#1B1F2A" stroke-opacity="0.14"/>
+    <text x="238" y="323" fill="#374151">Generative AI</text>
+
+    <rect x="354" y="304" width="128" height="30" rx="15" fill="none" stroke="#1B1F2A" stroke-opacity="0.14"/>
+    <text x="376" y="323" fill="#374151">Product Design</text>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- APPROACH — Design × Development × AI (overlapping) -->
+  <!-- ===================================================== -->
+
+  <g font-family="'Inter', Arial, sans-serif">
+    <text x="800" y="146" fill="#9CA0AA" font-size="10" font-weight="600" letter-spacing="2">
+      HOW I WORK
+    </text>
+
+    <!-- overlapping circles -->
+    <g opacity="0.92">
+      <circle cx="882" cy="216" r="58" fill="#3F5FE0" fill-opacity="0.14" stroke="#3F5FE0" stroke-opacity="0.45"/>
+      <circle cx="944" cy="196" r="58" fill="#7B8CF0" fill-opacity="0.14" stroke="#7B8CF0" stroke-opacity="0.45"/>
+      <circle cx="944" cy="252" r="58" fill="#1B1F2A" fill-opacity="0.08" stroke="#1B1F2A" stroke-opacity="0.30"/>
+    </g>
+
+    <text x="850" y="200" text-anchor="middle" fill="#1B1F2A" font-size="11.5" font-weight="700">Design</text>
+    <text x="965" y="176" text-anchor="middle" fill="#1B1F2A" font-size="11.5" font-weight="700">Develop</text>
+    <text x="965" y="290" text-anchor="middle" fill="#1B1F2A" font-size="11.5" font-weight="700">AI</text>
+
+    <!-- caption -->
+    <text x="800" y="326" fill="#374151" font-size="12.5" font-weight="500">
+      Design thinking, shipped through code,
+    </text>
+    <text x="800" y="344" fill="#374151" font-size="12.5" font-weight="500">
+      accelerated by AI at every step.
+    </text>
+  </g>
+
+  <!-- FOOTER -->
+  <line x1="60" y1="358" x2="1140" y2="358" stroke="#1B1F2A" stroke-opacity="0.07"/>
+
+  <text x="60" y="378" fill="#8A8F99" font-family="'Inter', Arial, sans-serif"
+    font-size="10" font-weight="500" letter-spacing="1.6">
+    SOFTWARE ENGINEERING · AI · UI/UX
   </text>
 
-
-  <text
-    x="58"
-    y="234"
-    fill="#15171D"
-    font-family="Instrument Serif, Georgia, serif"
-    font-size="67"
-    font-weight="400"
-    letter-spacing="-2.6"
-  >
-    With
-  </text>
-
-
-  <text
-    x="218"
-    y="234"
-    fill="url(#accent)"
-    font-family="Instrument Serif, Georgia, serif"
-    font-size="67"
-    font-weight="400"
-    font-style="italic"
-    letter-spacing="-2.6"
-  >
-    Intent.
-  </text>
-
-
-  <!-- ===================================================== -->
-  <!-- ROLE / DISCIPLINES -->
-  <!-- ===================================================== -->
-
-  <text
-    x="61"
-    y="269"
-    fill="#646B78"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="12"
-    font-weight="500"
-    letter-spacing="1.7"
-  >
-    FULL-STACK DEVELOPMENT
-  </text>
-
-
-  <circle
-    cx="286"
-    cy="265"
-    r="2"
-    fill="#7B86EE"
-  />
-
-
-  <text
-    x="304"
-    y="269"
-    fill="#646B78"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="12"
-    font-weight="500"
-    letter-spacing="1.7"
-  >
-    GENERATIVE AI
-  </text>
-
-
-  <circle
-    cx="450"
-    cy="265"
-    r="2"
-    fill="#7B86EE"
-  />
-
-
-  <text
-    x="468"
-    y="269"
-    fill="#646B78"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="12"
-    font-weight="500"
-    letter-spacing="1.7"
-  >
-    PRODUCT DESIGN
-  </text>
-
-
-  <!-- ===================================================== -->
-  <!-- SECONDARY LINE -->
-  <!-- ===================================================== -->
-
-  <line
-    x1="61"
-    y1="294"
-    x2="95"
-    y2="294"
-    stroke="#7B86EE"
-    stroke-width="1.5"
-  />
-
-
-  <text
-    x="110"
-    y="298"
-    fill="#8A909B"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="10.5"
-    font-weight="500"
-    letter-spacing="2"
-  >
-    IDEAS
-  </text>
-
-
-  <text
-    x="157"
-    y="298"
-    fill="#7180ED"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="12"
-  >
-    →
-  </text>
-
-
-  <text
-    x="181"
-    y="298"
-    fill="#8A909B"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="10.5"
-    font-weight="500"
-    letter-spacing="2"
-  >
-    PRODUCTS
-  </text>
-
-
-  <text
-    x="273"
-    y="298"
-    fill="#7180ED"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="12"
-  >
-    →
-  </text>
-
-
-  <text
-    x="297"
-    y="298"
-    fill="#8A909B"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="10.5"
-    font-weight="500"
-    letter-spacing="2"
-  >
-    IMPACT
-  </text>
-
-
-  <!-- ===================================================== -->
-  <!-- RIGHT ABSTRACT ILLUSTRATION -->
-  <!-- ===================================================== -->
-
-  <!-- Soft central orb -->
-
-  <circle
-    cx="900"
-    cy="205"
-    r="150"
-    fill="url(#orb)"
-  />
-
-
-  <!-- Large orbital ellipse -->
-
-  <ellipse
-    cx="900"
-    cy="205"
-    rx="250"
-    ry="78"
-    transform="rotate(-28 900 205)"
-    stroke="url(#orbit)"
-    stroke-width="1.2"
-  />
-
-
-  <!-- Second orbital ellipse -->
-
-  <ellipse
-    cx="900"
-    cy="205"
-    rx="225"
-    ry="105"
-    transform="rotate(48 900 205)"
-    stroke="#7180EF"
-    stroke-opacity="0.14"
-    stroke-width="1"
-  />
-
-
-  <!-- Third fine orbit -->
-
-  <ellipse
-    cx="900"
-    cy="205"
-    rx="310"
-    ry="115"
-    transform="rotate(-42 900 205)"
-    stroke="#6E7CF0"
-    stroke-opacity="0.10"
-    stroke-width="1"
-  />
-
-
-  <!-- Inner ellipse -->
-
-  <ellipse
-    cx="900"
-    cy="205"
-    rx="130"
-    ry="48"
-    transform="rotate(-32 900 205)"
-    stroke="#8792F4"
-    stroke-opacity="0.16"
-    stroke-width="1"
-  />
-
-
-  <!-- ===================================================== -->
-  <!-- ORBITAL NODE -->
-  <!-- ===================================================== -->
-
-  <circle
-    cx="740"
-    cy="139"
-    r="5"
-    fill="#6676EC"
-  />
-
-  <circle
-    cx="740"
-    cy="139"
-    r="11"
-    fill="#6676EC"
-    fill-opacity="0.08"
-  />
-
-
-  <!-- ===================================================== -->
-  <!-- FINE CONNECTING LINE -->
-  <!-- ===================================================== -->
-
-  <path
-    d="M740 139C808 102 903 86 1015 93"
-    stroke="#7180EE"
-    stroke-opacity="0.16"
-    stroke-width="1"
-  />
-
-
-  <!-- ===================================================== -->
-  <!-- RIGHT EDGE MICRO LABEL -->
-  <!-- ===================================================== -->
-
-  <line
-    x1="1110"
-    y1="155"
-    x2="1110"
-    y2="255"
-    stroke="#AEB3BE"
-    stroke-opacity="0.45"
-  />
-
-
-  <text
-    x="1128"
-    y="178"
-    fill="#777E8B"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="9.5"
-    font-weight="500"
-    letter-spacing="2.4"
-  >
-    CODE
-  </text>
-
-
-  <text
-    x="1128"
-    y="198"
-    fill="#777E8B"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="9.5"
-    font-weight="500"
-    letter-spacing="2.4"
-  >
-    DESIGN
-  </text>
-
-
-  <text
-    x="1128"
-    y="218"
-    fill="#777E8B"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="9.5"
-    font-weight="500"
-    letter-spacing="2.4"
-  >
-    EXPLORE
-  </text>
-
-
-  <text
-    x="1128"
-    y="238"
-    fill="#777E8B"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="9.5"
-    font-weight="500"
-    letter-spacing="2.4"
-  >
-    REPEAT
-  </text>
-
-
-  <line
-    x1="1128"
-    y1="255"
-    x2="1162"
-    y2="255"
-    stroke="#7180EE"
-    stroke-width="1.2"
-  />
-
-
-  <!-- ===================================================== -->
-  <!-- BOTTOM DIVIDER -->
-  <!-- ===================================================== -->
-
-  <line
-    x1="58"
-    y1="329"
-    x2="1142"
-    y2="329"
-    stroke="#17191F"
-    stroke-opacity="0.09"
-  />
-
-
-  <!-- ===================================================== -->
-  <!-- LOCATION -->
-  <!-- ===================================================== -->
-
-  <!-- Minimal location marker -->
-
-  <circle
-    cx="66"
-    cy="352"
-    r="7"
-    stroke="#77808E"
-    stroke-width="1.2"
-  />
-
-  <circle
-    cx="66"
-    cy="352"
-    r="2"
-    fill="#77808E"
-  />
-
-
-  <text
-    x="82"
-    y="356"
-    fill="#707783"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="10"
-    font-weight="500"
-    letter-spacing="2"
-  >
-    PUNE, INDIA
-  </text>
-
-
-  <!-- ===================================================== -->
-  <!-- CENTER FOOTER -->
-  <!-- ===================================================== -->
-
-  <text
-    x="600"
-    y="356"
-    text-anchor="middle"
-    fill="#9A9FA8"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="9.5"
-    font-weight="500"
-    letter-spacing="1.8"
-  >
-    SOFTWARE · AI · DESIGN
-  </text>
-
-
-  <!-- ===================================================== -->
-  <!-- RIGHT FOOTER -->
-  <!-- ===================================================== -->
-
-  <text
-    x="1142"
-    y="356"
-    text-anchor="end"
-    fill="#6877E8"
-    font-family="Geist, Inter, Arial, sans-serif"
-    font-size="9.5"
-    font-weight="600"
-    letter-spacing="1.5"
-  >
+  <text x="1140" y="378" text-anchor="end" fill="#3F5FE0"
+    font-family="'Inter', Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">
     @VISHWAKARMASANKET
   </text>
-
 </svg>
