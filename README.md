@@ -16,9 +16,9 @@
 
 ## / about
 
-I’m a **Computer Engineering student** interested in the space where **software engineering, generative AI, and product design** meet.
+I'm a **Computer Engineering student** working at the intersection of **software engineering, generative AI, and product design**.
 
-I like taking a problem from **context → system → interface → implementation** and keeping the result understandable enough to evolve.
+My default approach to a problem: **context → system → interface → implementation** — understand what's actually being solved before touching a single component, then build it in a way that's still easy to change six months later.
 
 > **Consistency · Curiosity · Discipline**
 
@@ -32,21 +32,21 @@ I like taking a problem from **context → system → interface → implementati
 
 **01 / BUILDING**
 
-TypeScript-first web products, backend services, and AI-powered workflows.
+TypeScript-first web products, backend services, and AI-powered workflows — end to end.
 
 </td>
 <td width="33%" valign="top">
 
 **02 / EXPLORING**
 
-LLM orchestration, RAG, agentic systems, system design, and distributed infrastructure.
+LLM orchestration, RAG pipelines, agentic systems, system design, and distributed infrastructure.
 
 </td>
 <td width="33%" valign="top">
 
 **03 / DESIGNING**
 
-Minimal interfaces, reusable systems, and product experiences where UX and engineering reinforce each other.
+Minimal interfaces and reusable systems, where UX decisions and engineering constraints reinforce each other instead of fighting.
 
 </td>
 </tr>
@@ -89,8 +89,8 @@ DESIGN          Figma · Framer
 
 ## / education
 
-**Bachelor of Engineering — Computer Engineering**  
-Ajeenkya DY Patil School of Engineering · Savitribai Phule Pune University  
+**Bachelor of Engineering — Computer Engineering**
+Ajeenkya DY Patil School of Engineering · Savitribai Phule Pune University
 `2023 — 2027` · `9.68 CGPA`
 
 <br />
